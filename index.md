@@ -15,13 +15,15 @@ Work at [Computer Department](http://computacion.fi-b.unam.mx) of [Engineer Elec
 - Online classes (co-author of the classes [Fundamentos de programación, Programación orientada a objetos y Criptografía](https://programas.cuaed.unam.mx/die/moodle/)).
 
 ## Professor of
-- EDyA I ([Estructuras de datos y algoritmos I](https://github.com/jrg-sln/academy/tree/main/EDyA_I)) 2016-current
-- EDyA II ([Estructuras de datos y algoritmos II(https://github.com/jrg-sln/academy/tree/main/EDyA_II)) 2016-current
-- POO ([Programación Orientada a Objetos](https://github.com/jrg-sln/academy/tree/main/POO)) 2016
-- PAMN ([Programación avanzada y métoedos numéricos](https://github.com/jrg-sln/academy/tree/main/PAyMN)) 2010-2015
-- AyED ([Algoritmos y estructuras de datos](https://github.com/jrg-sln/academy/tree/main/AyED)) 2011-2015
-- CPI ([Computacióm para ingenierios](https://github.com/jrg-sln/academy/tree/main/CPI)) 2013
 
+```markdown
+- [Estructuras de datos y algoritmos I](https://github.com/jrg-sln/academy/tree/main/EDyA_I) (EDyA I) 2016-current
+- [Estructuras de datos y algoritmos II](https://github.com/jrg-sln/academy/tree/main/EDyA_II) (EDyA II) 2016-current
+- [Programación Orientada a Objetos](https://github.com/jrg-sln/academy/tree/main/POO) (POO) 2016
+- [Programación avanzada y métoedos numéricos](https://github.com/jrg-sln/academy/tree/main/PAyMN) (PAMN) 2010-2015
+- [Algoritmos y estructuras de datos](https://github.com/jrg-sln/academy/tree/main/AyED) (AyED) 2011-2015
+- [Computacióm para ingenierios](https://github.com/jrg-sln/academy/tree/main/CPI) (CPI) 2013
+```
 
 <!--You can use the [editor on GitHub](https://github.com/jrg-sln/jrg-sln.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
