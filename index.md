@@ -6,8 +6,8 @@ Work at [Computer Department](http://computacion.fi-b.unam.mx) of [Engineer Elec
 - Club de Programación Competitiva de la Facultad de Ingeniería (CPCFI).
   * [Page](http://www.cpcfi.unam.mx)
   * [Github](https://github.com/CPCFI-org)
-- Sistema de Gestión de la Calidad en los [LC-AB](http://lcp02.fi-b.unam.mx).
-- Responsable del [Laboratorio de Computación Salas A y B](http://lcp02.fi-b.unam.mx).
+- Sistema de Gestión de la Calidad en los [Laboratorios de Computación Salas A y B](http://lcp02.fi-b.unam.mx).
+- Responsable de los [Laboratorios de Computación Salas A y B](http://lcp02.fi-b.unam.mx).
 
 ## Personal interest
 - Blockchain ([public](https://github.com/jrg-sln/auction) & [private](https://github.com/jrg-sln/hyperledger)).
