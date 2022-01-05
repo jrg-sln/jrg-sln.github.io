@@ -1,8 +1,29 @@
-## JRG SLN
+# JRG SLN
 
-Professor at Computer Department of Engineer Electric Division of Engineer Facultity, UNAM
+Work at [Computer Department](http://computacion.fi-b.unam.mx) of [Engineer Electric Division](http://www.fi-b.unam.mx) of [Engineer Facultity](https://www.ingenieria.unam.mx) at [UNAM](https://www.unam.mx).
 
-<!--You can use the [editor on GitHub](https://github.com/jrg-sln/jrg-sln.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.-->
+## Academic head of
+- Club de Programación Competitiva de la Facultad de Ingeniería (CPCFI).
+  * [Page](http://www.cpcfi.unam.mx)
+  * [Github](https://github.com/CPCFI-org)
+- Sistema de Gestión de la Calidad en los [LC-AB](http://lcp02.fi-b.unam.mx).
+- Responsable del [Laboratorio de Computación Salas A y B](http://lcp02.fi-b.unam.mx).
+
+## Personal interest
+- Blockchain ([public](https://github.com/jrg-sln/auction) & [private](https://github.com/jrg-sln/hyperledger)).
+- Computational complexity.
+- Online classes (co-author of the classes [Fundamentos de programación, Programación orientada a objetos y Criptografía](https://programas.cuaed.unam.mx/die/moodle/)).
+
+## Professor of
+- EDyA I ([Estructuras de datos y algoritmos I](https://github.com/jrg-sln/academy/tree/main/EDyA_I)) 2016-current
+- EDyA II ([Estructuras de datos y algoritmos II(https://github.com/jrg-sln/academy/tree/main/EDyA_II)) 2016-current
+- POO ([Programación Orientada a Objetos](https://github.com/jrg-sln/academy/tree/main/POO)) 2016
+- PAMN ([Programación avanzada y métoedos numéricos](https://github.com/jrg-sln/academy/tree/main/PAyMN)) 2010-2015
+- AyED ([Algoritmos y estructuras de datos](https://github.com/jrg-sln/academy/tree/main/AyED)) 2011-2015
+- CPI ([Computacióm para ingenierios](https://github.com/jrg-sln/academy/tree/main/CPI)) 2013
+
+
+<!--You can use the [editor on GitHub](https://github.com/jrg-sln/jrg-sln.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -37,3 +58,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+-->
