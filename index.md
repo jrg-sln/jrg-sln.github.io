@@ -16,8 +16,8 @@ Work at [Computer Department](http://computacion.fi-b.unam.mx) of [Engineer Elec
 
 ## Professor of
 
-- [Estructuras de datos y algoritmos I](https://github.com/jrg-sln/academy/tree/main/EDyA_I) (EDyA I) 2016-current
-- [Estructuras de datos y algoritmos II](https://github.com/jrg-sln/academy/tree/main/EDyA_II) (EDyA II) 2016-current
+- [Estructuras de datos y algoritmos I](https://github.com/jrg-sln/academy/tree/main/EDyA_I) (EDyA I) 2016 to date
+- [Estructuras de datos y algoritmos II](https://github.com/jrg-sln/academy/tree/main/EDyA_II) (EDyA II) 2016 to date
 - [Programación Orientada a Objetos](https://github.com/jrg-sln/academy/tree/main/POO) (POO) 2016
 - [Programación avanzada y métoedos numéricos](https://github.com/jrg-sln/academy/tree/main/PAyMN) (PAMN) 2010-2015
 - [Algoritmos y estructuras de datos](https://github.com/jrg-sln/academy/tree/main/AyED) (AyED) 2011-2015
