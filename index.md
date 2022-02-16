@@ -13,6 +13,7 @@ Work at [Computer Department](http://computacion.fi-b.unam.mx) of [Engineer Elec
 - Blockchain ([public](https://github.com/jrg-sln/auction) & [private](https://github.com/jrg-sln/hyperledger)).
 - Computational complexity.
 - Online classes (co-author of the classes [Fundamentos de programación, Programación orientada a objetos y Criptografía](https://programas.cuaed.unam.mx/die/moodle/)).
+- Zero knowledge proof's protocols ([Master thesis](https://github.com/jrg-sln/zkp_protocols.git))
 
 ## Professor of
 
