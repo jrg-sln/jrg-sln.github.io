@@ -22,7 +22,7 @@ Work at [Computer Department](http://computacion.fi-b.unam.mx) of [Engineer Elec
 - [Programación Orientada a Objetos](https://github.com/jrg-sln/academy/tree/main/POO) (POO) 2016
 - [Programación avanzada y métoedos numéricos](https://github.com/jrg-sln/academy/tree/main/PAyMN) (PAMN) 2010-2015
 - [Algoritmos y estructuras de datos](https://github.com/jrg-sln/academy/tree/main/AyED) (AyED) 2011-2015
-- [Computacióm para ingenierios](https://github.com/jrg-sln/academy/tree/main/CPI) (CPI) 2013
+- [Computación para ingenierios](https://github.com/jrg-sln/academy/tree/main/CPI) (CPI) 2013
 
 <!--You can use the [editor on GitHub](https://github.com/jrg-sln/jrg-sln.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
